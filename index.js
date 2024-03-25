@@ -16,4 +16,3 @@ client.connect()
 console.error(`Error: ${err}`)
 })
 
-func
